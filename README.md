@@ -8,7 +8,7 @@ This repository is an archive of old website designs, old discontinued repositor
 
 ## ✅ Usage
 ### 🌐 Homepage archives
-[V6](https://itsfoxdev.github.io/archives/site/v6)
+[V4](https://itsfoxdev.github.io/archives/site/v4) | [V5](https://itsfoxdev.github.io/archives/site/v5) | [V6](https://itsfoxdev.github.io/archives/site/v6) | [V7](https://itsfoxdev.github.io/archives/site/v7)
 
 ## 🗺️ Roadmap
 `🟡` Add all old site designes
