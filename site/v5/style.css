@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
-@import url("https://cdn.jsdelivr.net/gh/ItsFoxDev/API/AvenirWebFont/import.css");
+@import url("https://itsfoxdev.github.io/resources/fonts/avenir/import.css");
 /* @media (prefers-color-scheme: light) {
   body{background: whitesmoke;}
   :root{
@@ -172,7 +172,8 @@ header{
   width: 150px;
   text-align:center;
   display:inline-block;
-  font-family:'Avenir Next Demi';
+  font-family:'Avenir';
+  font-weight:600;
 }
 .desc{
   color:var(--text-col-m);
@@ -180,7 +181,8 @@ header{
   font-size:13.5px;
   text-align:center;
   display:inline-block;
-  font-family:'Avenir Next Reg';
+  font-family:'Avenir';
+  font-weight:400;
   line-height: 19px;
   max-height: 19px;
 }
